@@ -1,0 +1,1 @@
+This is Ditto Theme version 1.1
